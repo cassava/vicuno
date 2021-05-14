@@ -8,10 +8,10 @@ edition = "2018"
 
 [dependencies]
 metaflac = "0.2.4"
-clap = "2.33.3"
 regex = "1.4.6"
 thiserror = "1.0.24"
 log = "0.4.14"
 env_logger = "0.8.3"
 walkdir = "2.3.2"
 itertools = "0.10.0"
+structopt = "0.3.21"
